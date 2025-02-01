@@ -1,29 +1,33 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-20 23:30+0000\n"
+"Last-Translator: Didier Martin <dm.martin@free.fr>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/openwrt/"
+"luciapplicationsxfrpc/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:104
 msgid "Alert"
-msgstr ""
+msgstr "Alerte"
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:82
 msgid "By default, this value is \"\"."
-msgstr ""
+msgstr "Valeur par défaut \"\"."
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:71
 msgid "By default, this value is \"0.0.0.0\"."
-msgstr ""
+msgstr "Par défaut, cette valeur est \"0.0.0.0\"."
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:97
+#, fuzzy
 msgid "By default, this value is \"Info\"."
-msgstr ""
+msgstr "Par défaut, cette valeur vaut \"Info\"."
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:129
 msgid "By default, this value is \"tcp\"."
@@ -63,11 +67,11 @@ msgstr ""
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:102
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:120
 msgid "General Settings"
-msgstr ""
+msgstr "Réglages généraux"
 
 #: applications/luci-app-xfrpc/root/usr/share/rpcd/acl.d/luci-app-xfrpc.json:3
 msgid "Grant access to LuCI app xfrpc"
@@ -143,7 +147,7 @@ msgstr ""
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:30
 msgid "RUNNING"
-msgstr ""
+msgstr "EXÉCUTANT"
 
 #: applications/luci-app-xfrpc/htdocs/luci-static/resources/view/xfrpc.js:146
 msgid "Remote port"
